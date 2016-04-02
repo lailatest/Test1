@@ -3,10 +3,7 @@ public class Testing_git {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("I'm tetsing git settings2.");
-
-		System.out.println("I'm tetsing git settings 4.");
-
+		System.out.println("Version 1.");
 	}
 
 }
