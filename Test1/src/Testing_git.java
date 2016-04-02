@@ -5,6 +5,7 @@ public class Testing_git {
 		// TODO Auto-generated method stub
 		System.out.println("I'm tetsing git settings2.");
 
+		System.out.println("I'm tetsing git settings 4.");
 
 	}
 
