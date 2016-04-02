@@ -12,6 +12,8 @@ public class Testing_git {
 		System.out.println("Version 1.");
 
 		System.out.println("Version 1.");
+		
+		System.out.println("Version 2.");
 
 	}
 
